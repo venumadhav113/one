@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Vasthras Designs and Collection in 2025 shop here and get gifts like toys etc</h1>
+            <h1>Vasthras Designs and Collection in 2025 shop here and get great deals here</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
