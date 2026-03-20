@@ -18,9 +18,9 @@ steps:
     sonarQubeRunAnalysis: false
 - task: TomcatDeployment@1
   inputs:
-    TomcatUrl: 'http://20.211.41.76:8080/'
-    Username: 'tomcat'
-    Password: 'admin@123'
+    TomcatUrl: '$(url)'
+    Username: '$(user)'
+    Password: '$(password)'
     Warfile: 'target/myweb-8.7.3.war'
     Context: '/myweb'
     ServerVersion: '7OrAbove'
